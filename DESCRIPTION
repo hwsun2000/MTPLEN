@@ -1,0 +1,13 @@
+Package: MTPLEN
+Type: Package
+Title: Robust Cox regression based on trimming
+Version: 0.1.0
+Depends: R(>= 4.0.0) 
+Imports: survival,glmpath,SIS,glmnetUtils,MASS,glmnet
+Author: Hongwei Sun
+Maintainer: Hongwei Sun<hwsun2000@163.com>
+Description: The survival data of outliers were analyzed by robust Cox regression model based on truncation.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+
